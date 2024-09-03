@@ -22,7 +22,7 @@ header h1 {
 }
 
 header p {
-  margin-top: 5px;
+  margin-top: 7px;
 }
 
 header nav ul {
@@ -52,7 +52,7 @@ section h2 {
   margin: 0;
   padding: 0;
   height: 100vh;
-  background-image: url("Images/portfilip_bg_img.jpg"); /* Replace 'your-image-url.jpg' with the URL of your image */
+  background-image: url("Images/portfilip_bg_img.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
